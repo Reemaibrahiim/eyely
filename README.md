@@ -1,10 +1,10 @@
-👁️ Eyely – Color Blindness Testing Platform
+# 👁️ Eyely – Color Blindness Testing Platform
 Course Project (or Personal Project – adjust as needed)
 
-📖 Description
+## 📖 Description
 A full-stack web application for testing color vision deficiency using Ishihara-style plates and other color perception tests. The platform follows a client-server architecture with a modern React frontend, Node.js backend, and PostgreSQL database, allowing users to register, take tests, and track their results over time.
 
-🛠️ Technologies Used
+## 🛠️ Technologies Used
 Frontend: React.js, Tailwind CSS, Axios
 
 Backend: Node.js, Express.js
@@ -15,7 +15,7 @@ Authentication: JWT (JSON Web Tokens), Bcrypt
 
 
 
-🚀 Features
+## 🚀 Features
 User registration and secure login system
 
 Multiple color vision tests (Ishihara, Hue Arrangement)
@@ -28,7 +28,7 @@ Responsive design for mobile and desktop
 
 Admin overview of aggregated results
 
-💡 Key Features:
+## 💡 Key Features:
 Users create accounts and log in securely
 
 Tests are fetched dynamically from the backend API
@@ -41,7 +41,7 @@ Admin can manage test questions
 
 Full authentication flow with protected routes
 
-🛠️ Skills Used
+## 🛠️ Skills Used
 RESTful API design and development
 
 Client-server communication using HTTP/HTTPS
