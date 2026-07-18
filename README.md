@@ -1,5 +1,5 @@
 # 👁️ Eyely – Color Blindness Testing Platform
-Course Project (or Personal Project – adjust as needed)
+IT329 Web Development Project
 
 ## 📖 Description
 A full-stack web application for testing color vision deficiency using Ishihara-style plates and other color perception tests. The platform follows a client-server architecture with a modern React frontend, Node.js backend, and PostgreSQL database, allowing users to register, take tests, and track their results over time.
